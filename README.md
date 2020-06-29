@@ -16,4 +16,4 @@ https://natoursks.netlify.app/
 
 
 
-Definetly worth acknowledging JONAS SCHMEDTMANN for his valuable guidance in making of this project. 
+Definetly worth acknowledging JONAS SCHMEDTMANN for his valuable designing and guidance in making of this project. 
