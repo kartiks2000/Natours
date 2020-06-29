@@ -17,3 +17,6 @@ https://natoursks.netlify.app/
 
 
 Definetly worth acknowledging JONAS SCHMEDTMANN for his valuable designing and guidance in making of this project. 
+
+
+This was actually developed in 04/2020
